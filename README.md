@@ -7,4 +7,4 @@ Plan on:
 - Contact page
 - Blog or resume
 - Potentially integrate AWS?
--Connect it to danduran.dev
+- Connect it to danduran.dev
