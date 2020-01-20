@@ -13,7 +13,7 @@ picture: assets/images/profile.jpg
 # and specify source (external or local).
 resume: true
 resume-external: false
-resume-url: CSResume.pdf
+resume-url: Resume.pdf
 
 url: https://danduran.dev
 # your url: http://USERNAME.github.io
