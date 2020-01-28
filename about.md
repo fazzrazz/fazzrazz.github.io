@@ -7,7 +7,7 @@ layout: page
 
 <br>
 
-<p>Hi! I'm Dan Duran. Currently studying computer science full time, but sometimes I like to make some cool and interesting projects. Big space enthusiast</p>
+<p>Hi! I'm Dan Duran. Currently studying computer science full time, but sometimes I like to make some cool and interesting projects. Also Fascinated with outer space and robotics.</p>
 
 <p>I'm strongest in Java and Python, and currently bringing my C and C++ skills up to the same level at <a href="https://www.watonomous.ca/">Watonomous</a> and in school courses.</p>
 
@@ -18,21 +18,19 @@ layout: page
 <ul class="skill-list">
 	<li>Java 
 	<ul>
-	<li> Self-taught and school experience for 2+ years .</li>
+	<li> Self-taught and school experience for 2+ years.</li>
 	</ul></li>
 	<li>Python
 	<ul><li> Did various small projects with scripting and databases. </li></ul>
 		</li>
 	<li>Scheme/Racket
-	<ul><li> Used for school projects to greatly enhance recursion skills</li></ul>
+	<ul><li> Used for school projects to greatly enhance recursion skills.</li></ul>
 	</li>
+	<li>HTML, CSS, Jekyll
+	<ul><li>This website! Also some school projects</li></ul>
+		</li>
+<li>ROS (robot operating system)
+	<ul><li>Learned from my time at Watonomous. Mainly from scouring code and debugging sensors</li></ul>
+		</li>
 
-</ul>
-
-<h2>Projects</h2>
-
-<ul>
-	<li><a href="https://github.com/">Lorem Lorem</a></li>
-	<li><a href="https://github.com/">Ipsum Dolor</a></li>
-	<li><a href="https://github.com/">Dolor Lorem</a></li>
 </ul>
